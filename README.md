@@ -1,7 +1,3 @@
-iOS面试题持续更新中！记得star一下哦！
-
-如果你也有遇到什么难题，或者对于行业的困惑，欢迎加入iOS开发者交流群：551346706 ！随时欢迎你的到来！
-
 
 #### Objective_C语言特性
 [（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/Objective_C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7)
